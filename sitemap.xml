@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://langue-festival.github.io</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/langue</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/chi-siamo</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/contatti</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/programma</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/sezioni</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/luoghi</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/partecipa-come-volontario</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/partecipa-come-poeta</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://langue-festival.github.io/sostienici</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
